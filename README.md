@@ -1,2 +1,3 @@
 # hello-world
-the frist repository
+the first repository
+20201128, first exploration myself
